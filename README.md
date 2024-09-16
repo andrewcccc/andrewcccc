@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently completing my master's at McGill University
-- 🌱 I’m interested in mobile app development and machine learning
 - 😄 Feel free to check out my previous projects: https://andrewcccc.github.io/projects/
 
 <!--
